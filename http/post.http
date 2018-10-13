@@ -1,0 +1,9 @@
+POST http://localhost:8081/post
+Content-Type: application/json
+
+{
+    "name":"ehay",
+    "part":"server"
+ }
+
+###

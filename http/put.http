@@ -1,0 +1,9 @@
+PUT http://localhost:8081/put
+Content-Type: application/json
+
+{
+    "name":"ehay",
+    "part":"server"
+ }
+
+###

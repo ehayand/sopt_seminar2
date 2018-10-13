@@ -1,0 +1,4 @@
+GET http://localhost:8081/num?num=1,2,3,4,5
+#GET http://localhost:8081/num?num=1&num=2&num=3
+
+###
